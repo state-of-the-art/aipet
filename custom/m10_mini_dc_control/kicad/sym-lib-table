@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MIC5365-3.3YMT-TZ")(type "KiCad")(uri "${KIPRJMOD}/lib/MIC5365-3.3YMT-TZ.kicad_sym")(options "")(descr ""))
+)

@@ -9,7 +9,7 @@ charging is wireless so it can charge itself if can find the properly placed wir
 
 ## Electric schema
 
-Check this document to figure out: []()
+Check this document to figure out: [Electric schema](doc/electric_schema.svg)
 
 ## Components
 
@@ -21,7 +21,8 @@ Check this document to figure out: []()
 * [3.7V 2000mAh Lithium Rechargable Battery 1S 3C](https://www.amazon.com/dp/B08T6QS58J/)
 * [DC 5V 9V 12V UPS Module Voltage Boost Battery Charge with Protection for Lithium Li-ion 18650 Battery](https://www.amazon.com/dp/B08LZCPVFM/)
 * [6x 3V Micro Planetary Reducer Motor (9161C)](https://www.amazon.com/dp/B07N7PY71F)
-* [4x DRV8833 Motor Drive Module 1.5A Dual H Bridge](https://www.amazon.com/dp/B08RMWTDLM/)
+* [6x custom motor driver](custom/m10_mini_dc_control/)
+* [DRV8833 Motor Drive Module 1.5A Dual H Bridge](https://www.amazon.com/dp/B08RMWTDLM/)
 * [2x OV2640 Camera Module T-Camera Plus Camera Module ESP32-DOWDQ6 8MB SPRAM with 1/4" OLED Fisheye Lens](https://www.amazon.com/dp/B08FC2FL79/)
 * [GY-87 10DOF Module MPU6050 HMC5883L BMP180 Gyroscope Acceleration Compass](https://www.amazon.com/dp/B098JN14XV/)
 * [2x Magnetic Speaker 1W 8 Ohm 20x14x3mm](https://www.amazon.com/dp/B0826YMCQ7/)
